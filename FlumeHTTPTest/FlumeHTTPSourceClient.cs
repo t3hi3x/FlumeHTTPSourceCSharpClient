@@ -26,7 +26,7 @@ using System.IO;
 
 namespace FlumeHTTPTest
 {
-    // Class for defifing a flume event. It must formatted properly in JSON for the JSON Handler. See http://flume.apache.org/FlumeUserGuide.html#jsonhandler
+    // Class for defining a flume event. It must formatted properly in JSON for the JSON Handler. See http://flume.apache.org/FlumeUserGuide.html#jsonhandler
     public class FlumeEvent
     {
         private string _host;
